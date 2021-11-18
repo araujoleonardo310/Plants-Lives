@@ -19,7 +19,7 @@
 
 <br>
 
-<h3 id="objetivo">Objetivo: Desafio de recriar a page Plants in people's lives de Vladislav Shepel usando React.js</h3>
+<h3 id="objetivo">Objetivo: Desafio recriação da page Plants in people's lives de Vladislav Shepel usando React.js</h3>
 
 <br>
 
