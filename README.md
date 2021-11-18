@@ -1,70 +1,147 @@
-# Getting Started with Create React App
+<h1>Projeto: Users Login 🙍‍♂️📱</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align=center>
+<em><strong>ÍNDICE</strong></em>
+</div>
+ 
+<div align=center>
+    <a href="#objetivo" align=center>Objetivo</a>&nbsp;&nbsp;&nbsp;
+    <a href="#status" align=center>Status</a>&nbsp;&nbsp;&nbsp;
+    <a href="#veja" align=center>Veja o projeto</a>&nbsp;&nbsp;&nbsp; 
+    <a href="#instrucoes" align=center>Instruções de instalação</a>&nbsp;&nbsp;&nbsp;
+    <a href="#recursos" align=center>Linguagens & Ferramentas</a>&nbsp;&nbsp;&nbsp;
+    <a href="#referencias" align=center>Referências & Créditos</a>&nbsp;&nbsp;&nbsp;
+    <a href="#skills" align=center>Skills</a>&nbsp;&nbsp;&nbsp;
+    <a href="#autor" align=center>Autor</a> 
+</div>
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
+<h3 id="objetivo">Objetivo: Desafio de recriar a page Plants in people's lives de Vladislav Shepel usando React.js</h3>
 
-### `yarn start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<h3 id="status">Status</h3><br>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+***Concluíndo*** 🚀💻
 
-### `yarn test`
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<div align=center>
+    <h3 id="veja">Veja o projeto 🌱</h3>
+    <br>
+    <img src="project-assets/my-project.png">
+</div>
 
-### `yarn build`
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h3 id="instrucoes">Instruções para rodar o projeto na sua máquina</h3>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br>
 
-### `yarn eject`
+1 - Faça fork (clone) do projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+2 - Abra um terminal e acesse a pasta do projeto
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3 - Instale o package “node_module” com o comando ***npm install***
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<br>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<img src="project-assets/npm-install.png">
 
-## Learn More
+<br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+4 - Depois de instalado o package, digite o comando npm start ou yarn start (caso tenha o yarn instalado)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<br>
 
-### Code Splitting
+<img src="project-assets/npm-start.png">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<br>
 
-### Analyzing the Bundle Size
+5 - Em seu navegador de preferência, digite o endereço ***http://localhost:3000***
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<br>
 
-### Making a Progressive Web App
+<img src="project-assets/icon-browser.png">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<h3 id="recursos">Linguagens / framewoks / Bibliotecas / Ferramentas utilizadas</h3>
 
-### Deployment
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* React.js
+* Node Sass
+* React Icons
 
-### `yarn build` fails to minify
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h2 id="skills">Skills obtidas com esse projeto</h2>
+
+<br>
+
+✔️ Primeiras noções de funcionamento e criação de um app com react
+
+✔️ Noções de componentes
+
+✔️ Manipulação de elementos root do React
+
+✔️ Noções de arrow functions 
+
+✔️ Estilização com biblioteca e conceitos de Sass
+
+<br>
+
+<h3 align=center id="referencias"><i>Referências e Créditos </i>📖🙋‍♂️</h3><br> 
+
+Inspiração - [Plants in people's lives](https://dribbble.com/shots/16872663-Plants-in-people-s-lives?showSimilarShots=true&_=1637150902705) de ***Vladislav Shepel***
+
+<br>
+
+<img src="project-assets/project-origin.gif">
+
+<br>
+
+<div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/amethystdesign" title="AmethystDesign">AmethystDesign</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a> <img src="project-assets/plantar.png" width=20em></div>
+
+<br>
+
+
+
+<h3 id="autor">Autor</h3><br>
+
+<p> Meu nome é Leonardo, mas gosto de ser o Leo. Estou me graduando em Sistemas de Informação. Sou Desenvolvedor Front-End (estagiário) na AjaxTI.</p><br>
+
+<h3 align=center><i>Gostos e Hobbies </i>📖🙋‍♂️</h3><br> 
+
+Caminhar, correr, ciclismo, exercícios físicos, estudar, ler e aprender sobre desenvolvendo de sites e aplicações.</p><br>
+
+<div>
+    <h3><strong>Contatos</strong></h3><hr><br>    
+    <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5585988511269&text=Prazer%2C%20sou%20Leonardo%20Ara%C3%BAjo%2C%20mas%20gosto%20de%20ser%20chamado%20por%20Leo.%0ASou%20universit%C3%A1rio%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o%2C%0A%0AComo%20posso%20ajudar%3F">
+        <img  src="https://i.imgur.com/YyLyMPi.png" height="30em" title="Icone do Whatssap">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="mailto:araujoleonardo310@gmail.com">
+        <img src="https://i.imgur.com/tLI3d6L.png" height="30em" title="Icone do Gmail">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/araujoleonardo310">
+        <img  src="https://i.imgur.com/LpVinhs.png" height="30em" title="Icon do GitHub">
+    </a>   
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/leonardoaraujo310/">
+        <img src="https://i.imgur.com/HlqBmV8.png" height="30em" title="Ícone do LinkedIn">
+    </a>
+</div>
+
+
+
+
+
+
+
+

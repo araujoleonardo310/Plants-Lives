@@ -1,10 +1,14 @@
-import React from "react";
+import { GiLindenLeaf } from 'react-icons/gi'
+import { AiOutlineSearch } from 'react-icons/ai'
+import { FaUserCircle } from 'react-icons/fa'
+
+
 const Header = () => {
     return (
         <header>
             <div class="header">
                 <div class="logo">
-                    <i class="fas fa-leaf"></i>                        
+                    <GiLindenLeaf  className="GiLindenLeaf"/>                        
                 </div>
                 <div class="pages-links">
                     <ul class="links-ul">
@@ -15,11 +19,12 @@ const Header = () => {
                     </ul>
                 </div>
                 <div class="icons-links">
-                    <i class="fas fa-search"></i>
-                    <i class="fas fa-user-circle"></i>
+                    <AiOutlineSearch />
+                    <FaUserCircle className="FaUserCircle" />
                 </div>
             </div>
         </header>
     )
 }
 export default Header;
+
