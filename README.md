@@ -1,4 +1,4 @@
-<h1>Projeto: Users Login 🙍‍♂️📱</h1>
+<h1>Projeto: Plants Lives 🌱❤</h1>
 
 <div align=center>
 <em><strong>ÍNDICE</strong></em>
